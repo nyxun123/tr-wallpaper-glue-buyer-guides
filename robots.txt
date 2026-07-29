@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nyxun123.github.io/tr-wallpaper-glue-buyer-guides/sitemap.xml
